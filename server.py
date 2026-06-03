@@ -9,7 +9,7 @@ import threading
 pyautogui.FAILSAFE = False
 
 HOST = '0.0.0.0'
-PORTA = 9999
+PORTA = 5900
 
 # Thread para enviar a tela continuamente
 def enviar_tela(conexao):

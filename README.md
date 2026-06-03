@@ -77,3 +77,5 @@ python client.py
 * **Erro de conexão recusada / Timeout**: Verifique se o Firewall do sistema operacional do Servidor não está bloqueando a porta `9999`. Se necessário, crie uma regra de entrada para essa porta ou desative o firewall temporariamente para testes.
 * **O mouse clica no lugar errado**: Este script básico funciona melhor quando o computador Cliente e o Servidor possuem a **mesma resolução de tela** (ex: ambos 1920x1080). Caso as telas sejam diferentes, as coordenadas do mouse podem ficar desalinhadas.
 * **Atraso (Lag) na imagem**: A velocidade depende da sua rede local. Você pode abrir o `server.py` e diminuir o valor do parâmetro `quality=50` (linha 22) para valores menores como `30` para reduzir o tamanho dos dados enviados.
+
+remotecorporativo.gpcloudservice.com
